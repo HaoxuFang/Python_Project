@@ -1,7 +1,5 @@
 # ProgrammableWeb中Mashup-API数据统计与分析
 
-<center>方浩旭 2201210587</center>
-
 ProgrammableWeb是一个较为权威的API信息网站，除了提供API相关的最新资讯外，其同时提供了详实的API、Mashup目录供开发者搜索与了解。我们以Liu等人在Github上开源的[ProgrammableWeb数据集](https://github.com/HIT-ICES/Correted-ProgrammableWeb-dataset)为基础，对其中Mashup-API相关的数据进行了统计与分析。
 
 根据大作业要求，我们的统计与分析包括：
@@ -10,7 +8,7 @@ ProgrammableWeb是一个较为权威的API信息网站，除了提供API相关�
 2. 需求关键词下的Mashup-API间的关系：Mashup与API间的调用需求关系
 3. 非功能视角下的API间关系分析：API间的共同调用次数
 
-用于对数据进行分析统计的代码可见：
+用于对数据进行分析统计的代码可见：[Gitee](https://gitee.com/VanHelsingFang/Python_Project)、[Github](https://github.com/HaoxuFang/Python_Project)
 
 代码计算得到的具体统计信息都可在对应的`.xlsx`文件中进行查看，在报告中只会对整体的数据情况进行分析。
 
